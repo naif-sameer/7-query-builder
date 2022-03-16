@@ -116,12 +116,6 @@ trait queryBy
   }
 }
 
-
-
-
-
-
-
 class Database
 {
   use where, runQuery, join, queryBy;
